@@ -16,7 +16,6 @@ Shifra is a sleek, futuristic, voice-activated virtual assistant web application
 ## 🚀 Live Demo
 
 
-
 ### Supported Voice Commands
 Try saying these commands once you click the button:
 * *"Hello"* / *"Hi"*
